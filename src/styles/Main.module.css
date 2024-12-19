@@ -1,0 +1,9 @@
+main {
+  min-height: calc(100vh - 120px - 100px - 40px);
+  display: flex;
+  justify-content: center;
+}
+
+.my-container {
+  height: 100%;
+}
